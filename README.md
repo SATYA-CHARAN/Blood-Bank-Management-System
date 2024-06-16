@@ -1,6 +1,7 @@
 ## Screenshots
 ### Homepage
-![Homepage](https://github.com/SATYA-CHARAN/Blood-Bank-Management-System/assets/147343366/c0afc23a-0fb8-46e4-9ca1-af283e2d4479)
+![Screenshot 2023-12-15 233856](https://github.com/SATYA-CHARAN/Blood-Bank-Management-System/assets/147343366/0f967306-8391-481a-864c-8ffa5f0b1f8d)
+
 ### Admin Dashboard
 ![Dashboard](https://github.com/SATYA-CHARAN/Blood-Bank-Management-System/assets/147343366/001b0488-66ce-45a1-aa92-32c0093599dc)
 ### Admin Login
