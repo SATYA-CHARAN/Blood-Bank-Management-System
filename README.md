@@ -1,12 +1,12 @@
 ## Screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
+![Homepage](https://github.com/SATYA-CHARAN/Blood-Bank-Management-System/assets/147343366/c0afc23a-0fb8-46e4-9ca1-af283e2d4479)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
-### Blood Donation 
-![invoice snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/blooddonation.png?raw=true)
+![Dashboard](https://github.com/SATYA-CHARAN/Blood-Bank-Management-System/assets/147343366/001b0488-66ce-45a1-aa92-32c0093599dc)
+### Admin Login
+![Admin Login](https://github.com/SATYA-CHARAN/Blood-Bank-Management-System/assets/147343366/46d0de67-7261-435b-8906-7633fbddc39f)
 ### Blood Request
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/bloodrequest.png?raw=true)
+![Screenshot 2024-02-04 231835](https://github.com/SATYA-CHARAN/Blood-Bank-Management-System/assets/147343366/f2e0e612-c573-45a7-a78f-a136d9c72fec)
 ### Logout
 ![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/logout.png?raw=true)
 ---
