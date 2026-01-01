@@ -68,7 +68,7 @@ py manage.py makemigrations
 py manage.py migrate
 py manage.py runserver
 ```
-- Now enter following URL in Your Browser Installed On Your Pc
+- Now enter following URL in Your Browser Installed On Your Pc (Local Server)
 ```
 http://127.0.0.1:8000/
 ```
